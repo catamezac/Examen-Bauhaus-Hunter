@@ -26,55 +26,55 @@ Es un videojuego interactivo basado en una composición geométrica inspirada en
 
 -Pantalla de inicio.
 
--Composición de círculos.
+- Composición de círculos.
 
--Círculo objetivo.
+- Círculo objetivo.
 
--Puntaje del jugador.
+- Puntaje del jugador.
 
--Webcam integrada al juego.
+- Webcam integrada al juego.
 
--Pantalla final.
+- Pantalla final.
 
 ## Elementos visuales
 
--Retícula de círculos.
+- Retícula de círculos.
 
--Texto.
+- Texto.
 
--Círculo objetivo.
+- Círculo objetivo.
 
--Webcam.
+- Webcam.
 
--Composición final.
+- Composición final.
 
 ## Inputs
 
--Movimiento del mouse.
+- Movimiento del mouse.
 
--Click del mouse.
+- Click del mouse.
 
--Tecla **ENTER**
+- Tecla **ENTER**
 
--Tecla **R**
+- Tecla **R**
 
--Webcam.
+- Webcam.
 
 ## Outputs
 
--Movimiento de la retícula.
+- Movimiento de la retícula.
 
--Cambios de tamaño.
+- Cambios de tamaño.
 
--Cambios de color.
+- Cambios de color.
 
--Actualización del puntaje.
+- Actualización del puntaje.
 
--Cambio de estados.
+- Cambio de estados.
 
--Integración de la webcam.
+- Integración de la webcam.
 
--Pantalla final.
+- Pantalla final.
 
 ---
 
@@ -90,25 +90,25 @@ La idea central fue transformar una composición en un sistema interactivo donde
 
 ## Referentes visuales
 
--Bauhaus 
+- Bauhaus 
 
--Cartel conmemorativo que celebra los 100 años de la escuela Bauhaus 
+- Cartel conmemorativo que celebra los 100 años de la escuela Bauhaus 
 
--Diseño modular
+- Diseño modular
 
--Solemne II
+- Solemne II
 
 ## Principios de diseño
 
--Repetición.
+- Repetición.
 
--Ritmo.
+- Ritmo.
 
--Modulación.
+- Modulación.
 
--Geometría.
+- Geometría.
 
--Interactividad.
+- Interactividad.
 
 ---
 
@@ -118,11 +118,11 @@ La idea central fue transformar una composición en un sistema interactivo donde
 
 El sistema recibe información desde:
 
--Mouse.
+- Mouse.
 
--Teclado.
+- Teclado.
 
--Webcam.
+- Webcam.
 
 ## Procesos
 
@@ -156,27 +156,27 @@ Se muestra el puntaje obtenido y la opción de reiniciar el juego.
 
 ## Eventos
 
--Presionar **ENTER** inicia el juego.
+- Presionar **ENTER** inicia el juego.
 
--Hacer click con el mouse captura el objetivo.
+- Hacer click con el mouse captura el objetivo.
 
--Al llegar a 10 puntos cambia al estado de webcam.
+- Al llegar a 10 puntos cambia al estado de webcam.
 
--Al llegar a 20 puntos aparece la pantalla final.
+- Al llegar a 20 puntos aparece la pantalla final.
 
--Presiona **R** reinicia el juego.
+- Presiona **R** reinicia el juego.
 
 ## Outputs
 
--Composición interactiva.
+- Composición interactiva.
 
--Puntaje actualizado.
+- Puntaje actualizado.
 
--Cambios visuales.
+- Cambios visuales.
 
--Webcam.
+- Webcam.
 
--Pantalla final.
+- Pantalla final.
 
 ---
 
@@ -206,7 +206,7 @@ El sistema responde mediante cambios en la retícula, actualización del puntaje
 
 ## Tipo de recurso
 
--Webcam.
+- Webcam.
 
 ## Función dentro del proyecto
 
@@ -222,7 +222,11 @@ La webcam incorpora al usuario dentro del sistema interactivo. En el segundo niv
 
 ![Imagen](referente.webp)
 
+## Bocetos
 
+![Imagen](boceto1.png)
+
+![Imagen](boceto2.png)
 
 ## Iteraciones
 
@@ -243,7 +247,7 @@ También incorporé map() para que el movimiento del mouse modificara el desplaz
 - map().
 - Condicionales para modificar los colores.
 - Movimiento mediante sin (frameCount.
-- 
+  
 ![Imagen](captura1.png)
 
 **Iteración 2**
