@@ -24,7 +24,7 @@ Es un videojuego interactivo basado en una composición geométrica inspirada en
 
 ## ¿Qué se ve en la pantalla?
 
--Pantalla de inicio.
+- Pantalla de inicio.
 
 - Composición de círculos.
 
@@ -246,7 +246,7 @@ También incorporé map() para que el movimiento del mouse modificara el desplaz
 - Loop anidado.
 - map().
 - Condicionales para modificar los colores.
-- Movimiento mediante sin (frameCount.
+- Movimiento mediante sin(frameCount).
   
 ![Imagen](captura1.png)
 
@@ -268,7 +268,7 @@ También incorporé eventos de mouse para detectar cuándo el usuario logra capt
 - Objeto "objetivo".
 - Evento mousePressed.
 - Detección mediante dist().
-- Posiciones aleatorias con random.
+- Posiciones aleatorias con random().
 
 ![Imagen](captura2.png)
 
