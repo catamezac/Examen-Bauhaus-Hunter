@@ -355,7 +355,34 @@ Este proyecto me permitió comprender mejor cómo estructurar un programa utiliz
 
 [Link editable](https://editor.p5js.org/catalina.meza3/sketches/G5C12R4AQ)
 
+
+### Código
+
 [Código fuente](sketch.js)
+
+
+```javascript
+function mousePressed() {
+
+  let distancia = dist(
+    mouseX,
+    mouseY,
+    objetivo.x,
+    objetivo.y
+  );
+
+  if (distancia < objetivo.tam / 2) {
+
+    puntaje++;
+
+    objetivo.x = random(50, width - 50);
+    objetivo.y = random(50, height - 50);
+
+    colorObjetivo = !colorObjetivo;
+  }
+}
+```
+
 
 ## Repositorio de GitHub
 
