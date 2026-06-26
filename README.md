@@ -360,6 +360,7 @@ Este proyecto me permitió comprender mejor cómo estructurar un programa utiliz
 
 [Código fuente](sketch.js)
 
+A continuación se muestra un fragmento representativo del proyecto correspondiente a la interacción entre el usuario y el objetivo.
 
 ```javascript
 function mousePressed() {
