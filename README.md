@@ -4,12 +4,6 @@
 
 **Estudiante:** Catalina Meza
 
-[Link editable](https://editor.p5js.org/catalina.meza3/sketches/G5C12R4AQ)
-
-[Sketch](sketch.js)
-
-
-
 
 ---
 
@@ -340,7 +334,18 @@ Este proyecto me permitió comprender mejor cómo estructurar un programa utiliz
 
 [Link de Figma](https://www.figma.com/board/vLKbjFGx0MJN8a1jUGwgoW/Website-Flowchart-Template--Community-?node-id=0-1&t=jv3KzPLbMSBQdtK0-1)
 
-![Diagrama de flujo]
+![Diagrama de flujo](diagrama.png)
+
+# Enlaces
+
+## Proyecto en p5.js
+
+[Link editable](https://editor.p5js.org/catalina.meza3/sketches/G5C12R4AQ)
+
+[Sketch](sketch.js)
+
+
+
 
 
 
