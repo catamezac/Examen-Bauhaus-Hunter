@@ -218,8 +218,28 @@ La webcam incorpora al usuario dentro del sistema interactivo. En el segundo niv
 
 # Registro del proceso
 
-## Referentes
+## Referente
+
 **Bauhaus Dots 1919**
+
+![Imagen](referente.webp)
+
+## Bocetos
+
+## Iteraciones
+
+Iteración 1 
+
+Composición Bauhaus interactiva
+
+Iteración 2
+
+Objetivo, puntaje y clicks.
+
+Iteración 3
+
+Estados, menú y pantalla de inicio.
+
 
 
 
