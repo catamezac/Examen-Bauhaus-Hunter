@@ -228,15 +228,15 @@ La webcam incorpora al usuario dentro del sistema interactivo. En el segundo niv
 
 ## Iteraciones
 
-Iteración 1 
+**Iteración 1** 
 
 Composición Bauhaus interactiva
 
-Iteración 2
+**Iteración 2**
 
 Objetivo, puntaje y clicks.
 
-Iteración 3
+**Iteración 3**
 
 Estados, menú y pantalla de inicio.
 
