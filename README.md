@@ -6,7 +6,7 @@
 
 [Link editable](https://editor.p5js.org/catalina.meza3/sketches/G5C12R4AQ)
 
-[Sketch](Examen/sketch.js)
+[Sketch](sketch.js)
 
 
 ---
