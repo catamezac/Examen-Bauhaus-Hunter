@@ -346,9 +346,7 @@ Este proyecto me permitió comprender mejor cómo estructurar un programa utiliz
 
 # Diagrama de flujo
 
-[Link de Figma](https://www.figma.com/board/vLKbjFGx0MJN8a1jUGwgoW/Website-Flowchart-Template--Community-?node-id=0-1&t=jv3KzPLbMSBQdtK0-1)
 
-![Diagrama de flujo](diagrama.png)
 
 # Enlaces
 
