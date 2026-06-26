@@ -346,6 +346,7 @@ Este proyecto me permitió comprender mejor cómo estructurar un programa utiliz
 
 # Diagrama de flujo
 
+![Imagen](diagrama.png)
 
 
 # Enlaces
