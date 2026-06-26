@@ -314,7 +314,35 @@ Cada estado tiene una lógica distinta y se controla mediante la variable estado
 
 ![Imagen](imagen9.png)
 
--Pantalla de inicio
+
+## Pantalla de inicio
+
+![Imagen](pantallainicio.png)
+
+![Imagen](juego.png)
+
+![Imagen](pantallafinal.png)
+
+---
+
+# Reflexión final
+
+Mi objetivo fue transformar la composición desarrollada en la Solemne II en un sistema interactivo más completo.
+
+Decidí mantener la estética inspirada en la Bauhaus porque representaba el concepto inicial del proyecto, pero incorporando distintos estados, objetivos y multimedia para generar una experiencia más dinámica.
+
+La principal dificultad fue organizar el código para que cada estado funcionara correctamente y lograr integrar la webcam sin perder la composición principal.
+
+Este proyecto me permitió comprender mejor cómo estructurar un programa utilizando variables, funciones, objetos, condicionales y bucles, además de entender cómo un sistema interactivo responde constantemente a las acciones del usuario.
+
+
+# Diagrama de flujo
+
+[Link de Figma](https://www.figma.com/board/vLKbjFGx0MJN8a1jUGwgoW/Website-Flowchart-Template--Community-?node-id=0-1&t=jv3KzPLbMSBQdtK0-1)
+
+![Diagrama de flujo]
+
+
 
 
 
