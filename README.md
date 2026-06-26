@@ -20,7 +20,7 @@ A medida que progresa el juego, la experiencia cambia incorporando la webcam com
 
 ## ¿Qué es el proyecto?
 
-Es un videojuego interactivo basado en una composición geometrica inspirada en la Bauhaus. El objetivo del jugador es capturar círculos para obtener el puntaje y completar el juego.
+Es un videojuego interactivo basado en una composición geométrica inspirada en la Bauhaus. El objetivo del jugador es capturar círculos para obtener el puntaje y completar el juego.
 
 ## ¿Qué se ve en la pantalla?
 
@@ -146,7 +146,11 @@ El usuario debe capturar los círculos para aumentar su puntaje.
 
 ### Estado 2
 
-Pantalla Final
+Juego con webcam
+
+### Estado 3
+
+Pantalla final.
 
 Se muestra el puntaje obtenido y la opción de reiniciar el juego.
 
@@ -180,7 +184,7 @@ Se muestra el puntaje obtenido y la opción de reiniciar el juego.
 
 ## ¿Qué datos entran al sistema?
 
-El sistema recibe información mediante el movimiento del mouse, los clicks del usuario, las teclas presionadas y la imagen capturada por la webcam.
+El sistema recibe información mediante el movimiento del mouse, los clics del usuario, las teclas presionadas y la imagen capturada por la webcam.
 
 ## ¿Cómo se procesan?
 
@@ -218,7 +222,7 @@ La webcam incorpora al usuario dentro del sistema interactivo. En el segundo niv
 
 ![Imagen](referente.webp)
 
-## Bocetos
+
 
 ## Iteraciones
 
@@ -309,11 +313,17 @@ Cada estado tiene una lógica distinta y se controla mediante la variable estado
 ![Imagen](imagen9.png)
 
 
-## Pantalla de inicio
+### Pantalla de inicio
 
 ![Imagen](pantallainicio.png)
 
+
+### Juego
+
 ![Imagen](juego.png)
+
+
+### Pantalla final
 
 ![Imagen](pantallafinal.png)
 
@@ -342,11 +352,11 @@ Este proyecto me permitió comprender mejor cómo estructurar un programa utiliz
 
 [Link editable](https://editor.p5js.org/catalina.meza3/sketches/G5C12R4AQ)
 
-[Sketch](sketch.js)
+[Código fuente](sketch.js)
 
 ## Repositorio de GitHub
 
-[Link GitHub](https://github.com/catamezac/Examen-Bauhaus-Hunter.git)
+[Link GitHub](https://github.com/catamezac/Examen-Bauhaus-Hunter)
 
 
 
