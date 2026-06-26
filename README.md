@@ -190,13 +190,13 @@ El sistema recibe información mediante el movimiento del mouse, los clicks del 
 
 ## ¿Cómo se procesan?
 
-Toda la información se procesa continuamente dentro de la función 'draw()'.
+Toda la información se procesa continuamente dentro de la función draw().
 
 El programa utiliza variables para almacenar datos, condicionales para controlar la lógica, funciones para organizar el código y bucles para generar la composición.
 
 ## ¿Cómo se transforman?
 
-Los movimientos del mouse modifican la composición utilizando 'map()'. Los clicks aumentan el puntaje y generan una nueva posición aleatoria del objetivo mediante 'random()'.
+Los movimientos del mouse modifican la composición utilizando 'map()'. Los clicks aumentan el puntaje y generan una nueva posición aleatoria del objetivo mediante random().
 
 ## ¿Qué respuestas producen?
 
@@ -230,15 +230,94 @@ La webcam incorpora al usuario dentro del sistema interactivo. En el segundo niv
 
 **Iteración 1** 
 
-Composición Bauhaus interactiva
+Composición base Bauhaus interactiva
+
+En la primera versión desarrollé una composición inspirada en la Bauhaus utilizando una retícula de círculos.
+
+La estructura fue creada mediante un **loop anidado**, lo que permitió generar automáticamente las filas y columnas de la composición.
+
+También incorporé map() para que el movimiento del mouse modificara el desplazamiento y el tamaño de los círculos, logrando una composición dinámica.
+
+**Elementos incorporados**
+
+- Retícula de círculos.
+- Loop anidado.
+- map().
+- Condicionales para modificar los colores.
+- Movimiento mediante sin (frameCount.
+- 
+![Imagen](captura1.png)
 
 **Iteración 2**
 
 Objetivo, puntaje y clicks.
 
+La segunda etapa consistió en transformar la composición en un videojuego.
+
+Para ello agregué un círculo objetivo que el usuario debía capturar haciendo clic sobre él.
+
+Cada captura aumenta el puntaje y el objetivo cambia de posición utilizando random().
+
+También incorporé eventos de mouse para detectar cuándo el usuario logra capturar el objetivo.
+
+**Mejoras realizadas**
+
+- Variable de puntaje.
+- Objeto "objetivo".
+- Evento mousePressed.
+- Detección mediante dist().
+- Posiciones aleatorias con random.
+
+![Imagen](captura2.png)
+
 **Iteración 3**
 
 Estados, menú y pantalla de inicio.
+
+Después incorporé distintos estados para que el proyecto dejara de ser solamente una composición interactiva.
+
+El programa quedó dividido en cuatro etapas:
+
+- Pantalla de inicio.
+- Juego.
+- Juego con webcam.
+- Pantalla final.
+
+Cada estado tiene una lógica distinta y se controla mediante la variable estado.
+
+**Mejoras realizadas**
+
+- Variable estado.
+- Condicionales if y else if.
+- Pantallas independientes.
+- Transición automática entre niveles.
+
+![Imagen](captura3.png)
+
+## Capturas del proyecto
+
+![Imagen](imagen1.png)
+
+![Imagen](imagen2.png)
+
+![Imagen](imagen3.png)
+
+![Imagen](imagen4.png)
+
+![Imagen](imagen5.png)
+
+![Imagen](imagen6.png)
+
+![Imagen](imagen7.png)
+
+![Imagen](imagen8.png)
+
+![Imagen](imagen9.png)
+
+-Pantalla de inicio
+
+
+
 
 
 
