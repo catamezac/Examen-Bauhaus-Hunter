@@ -9,6 +9,8 @@
 [Sketch](sketch.js)
 
 
+
+
 ---
 
 # Descripción general
@@ -217,6 +219,10 @@ La webcam incorpora al usuario dentro del sistema interactivo. En el segundo niv
 # Registro del proceso
 
 ## Referentes
+**Bauhaus Dots 1919**
+
+
+
 
 
 
